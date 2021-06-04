@@ -1,3 +1,6 @@
-# COMP229-M2021-Week3d
+# Assignment 1 - Portfolio
 
-Demo Project for COMP229 - Week 3
+Mostafa Asaad
+301173762
+Comp229 - Web Application Development
+Assignment 1 - Portfolio
