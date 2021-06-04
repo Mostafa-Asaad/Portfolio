@@ -1,11 +1,11 @@
 {
-  "name": "portfolio",
-  "version": "0.0.1",
+  "name": "comp229-m2021-week4",
+  "version": "0.0.2",
   "private": true,
-  "description": "Assignment 1 - Mostafa Asaad",
+  "description": "Demo Project for COMP229 - Week 4",
   "main": "index.js",
-  "repository": "https://github.com/Mostafa-Asaad/Portfolio/",
-  "author": "Mostafa Asaad <moe.asd@gmail.com>",
+  "repository": "https://github.com/CentennialCollege/COMP229-M2021-Week4d.git",
+  "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"

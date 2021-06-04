@@ -12,20 +12,20 @@
 </head>
 <body>
   <!-- Navigation Section -->
- <header>
-  <%- include('./components/header.ejs') %>
- </header>
+  <header>
+    <%- include('components/header.ejs'); %>
+  </header>
 
-  <!--Main Content-->>
+  <!-- Main Content Section -->
   <main>
-    <%- include('./content/' + page + '.ejs') %>
+    <%- include('content/' + page + '.ejs'); %>
   </main>
-
+  
   <!-- Bottom Nav -->
   <footer>
-    <%- include('./components/footer.ejs') %>
+    <%- include('components/footer.ejs'); %>
   </footer>
-  
+    
   <!-- JavaScript Section -->
   <script src="/jquery/dist/jquery.min.js"></script>
   <script src="/bootstrap/dist/js/bootstrap.min.js"></script>
